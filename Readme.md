@@ -68,6 +68,14 @@ yarn add bcrypt@^6.0.0 dotenv@^16.5.0 express@^5.1.0 fast-glob@^3.3.3 jsonwebtok
   },
 ```
 
+echo "# gerenciador-arquivos-api" >> README.md
+git init
+git add --all
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/JhonataProf/gerenciador-arquivos-api.git
+git push -u origin main
+
 
 
 
